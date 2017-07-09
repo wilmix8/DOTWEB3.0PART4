@@ -216,3 +216,4 @@ B) Use  JDollar-Agent Program  to manipulate the  Query.
 c)  You  can  call  the query  and  execute  and  display  the  query results on same  page.
 
  
+Technology code: 14 ;  since  it  is  JDollarpart4...
