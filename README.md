@@ -1,12 +1,9 @@
 # JWEB4.0
 =========
 
+JWEBAGENT Programming Language is about more detail about JWEB CLOUD computing. and it is used for datatransfer from Linux to windows . 
 
-JWEB4.0 is otherwise known as JDollarPart4 and it is used for datatransfer from
-
-Linux to windows . and it is invented by wilmix jemin j in JWEB(JDollar) P.L.
-
-So that Windows JDollar can easily take the data from LInux.
+and it is invented by wilmix jemin j in JWEB(JDollar) P.L. at year 2017.
 
 ADVANTAGES
 ===========
